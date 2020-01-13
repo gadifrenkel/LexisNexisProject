@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexisNexisProject", "LexisNexisProject\LexisNexisProject.csproj", "{34B5223F-7719-46ED-B16E-9B7860D9A36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B5223F-7719-46ED-B16E-9B7860D9A36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B5223F-7719-46ED-B16E-9B7860D9A36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B5223F-7719-46ED-B16E-9B7860D9A36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B5223F-7719-46ED-B16E-9B7860D9A36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FC8882-76AB-42EC-9829-8D60DE83F055}
+	EndGlobalSection
+EndGlobal
